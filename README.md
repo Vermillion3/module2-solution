@@ -1,4 +1,2 @@
-# Module-2 Coding Assignment
-Coursera course: HTML, CSS, and Javascript for Web Developers
 
-To see the output [index.html](http://localhost:50735/)
+Module-2 Coding Assignment [index.html](http://localhost:50735/)
